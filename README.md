@@ -11,3 +11,5 @@ The hardest part will probably be to read the retrieved data and view it as a ch
 The chess library that will be used, will be one by nvzqz and can be found [here](https://github.com/nvzqz/Sage)
 
 The API to request games will be the [chess galery API](https://chess.gallery/api/gameref#game)
+
+Jan Maren Sevenster, 11336595
